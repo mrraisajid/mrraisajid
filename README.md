@@ -1,120 +1,194 @@
 <h1 align="center">Hi 👋, I'm Sajid Ali</h1>
 
-<h3 align="center">
-Senior Android Engineer | Kotlin | Jetpack Compose | Clean Architecture
-</h3>
+<h3 align="center">Software Engineer Android | Kotlin | Jetpack Compose | Clean Architecture</h3>
 
 <p align="center">
-Android Engineer specializing in Kotlin, Jetpack Compose, and scalable fintech & utility applications with 50M+ downloads.
+Android Engineer specializing in building scalable fintech and utility applications with 50M+ downloads.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mrraisajid/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/mrraisajid/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:mrraisajid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:mrraisajid@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/mrraisajid">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/mrraisajid">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mrraisajid&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Currently working remotely as a **Software Engineer** at a **Swedish Fintech Company**
-- 📱 6+ years of experience building high-quality Android applications
-- 🚀 Specialized in Kotlin, Java, Jetpack Compose, and Clean Architecture
+- 💼 Software Engineer at a **Swedish Fintech Company**
+- 📱 6+ years of experience building Android applications
+- 🚀 Specialized in **Kotlin, Java, Jetpack Compose & Clean Architecture**
 - 📊 Contributed to Android applications with **50M+ downloads**
-- 🤝 Passionate about Open Source, collaboration, and building impactful products
+- 🤝 Passionate about Open Source, collaboration, and building impactful mobile products
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,gradle,sqlite,docker" />
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,gradle,sqlite,docker"/>
+
 </p>
 
-### Languages
+<p align="center">
 
-Kotlin • Java
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVVM-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flow-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-### Android
-
-Jetpack Compose • XML • MVVM • Clean Architecture • Coroutines • Flow • Hilt • Dagger • Room • Retrofit • WorkManager • Firebase • AdMob
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Apps
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid">
+
+<img src="assets/docs-reader.png" width="280"/>
+
+</a>
 
 ### 📄 Docs Reader
 
-A modern PDF reader with document management tools including Merge, Split, Lock/Unlock, OCR, and Text-to-Speech.
+Modern PDF Reader with OCR, Merge, Split, Lock/Unlock & Text-to-Speech.
 
-🔗 **Play Store:**  
-https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid
+<a href="https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid">
 
----
+<img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner">
+
+<img src="assets/pdf-scanner.png" width="280"/>
+
+</a>
 
 ### 📷 PDF Scanner
 
-A feature-rich document scanner with OpenCV-powered edge detection, OCR, PDF editing, and 40M+ users.
+Document Scanner powered by OpenCV with OCR and PDF editing.
 
-🔗 **Play Store:**  
-https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner
+<a href="https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner">
 
----
+<img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp">
+
+<img src="assets/ai-chat.png" width="280"/>
+
+</a>
 
 ### 🤖 AI Chat Assistant
 
-An AI-powered chatbot built with Kotlin, OpenAI APIs, and modern Android architecture.
+AI-powered chatbot built using Kotlin and OpenAI APIs.
 
-🔗 **Play Store:**  
-https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp
+<a href="https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp">
 
----
+<img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator">
+
+<img src="assets/translator.png" width="280"/>
+
+</a>
 
 ### 🌐 Language Translator
 
-A multilingual translator with CameraX, OCR, Text-to-Speech, and real-time translation.
+Language Translator with CameraX, OCR and Text-to-Speech.
 
-🔗 **Play Store:**  
-https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator
+<a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator">
+
+<img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrraisajid&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrraisajid&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrraisajid&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrraisajid&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=mrraisajid&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrraisajid&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mrraisajid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -135,5 +209,5 @@ https://play.google.com/store/apps/details?id=translate.all.language.translator.
 ---
 
 <p align="center">
-Thanks for visiting my profile! 🚀<br>
+⭐ Thanks for visiting my profile!<br>
 </p>
