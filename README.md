@@ -73,7 +73,7 @@ Contributed to fintech and utility products with <strong>50M+ downloads</strong>
 
 <a href="https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid">
 
-<img src="assets/docs-reader.png" width="280"/>
+<img src="docs-reader.webp" width="280"/>
 
 </a>
 
