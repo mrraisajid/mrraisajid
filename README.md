@@ -75,10 +75,6 @@ Contributed to fintech and utility products with <strong>50M+ downloads</strong>
   <img src="chatbot-card.png" width="48%" alt="ChatBot - AI Chat Assistant"/>
 </a>
 
-</p>
-
-<p align="center">
-
 <a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator" target="_blank">
   <img src="language-translator-card.png" width="48%" alt="Language Translator"/>
 </a>
