@@ -66,25 +66,27 @@ Contributed to fintech and utility products with <strong>50M+ downloads</strong>
 # 🚀 Featured Apps
 
 <p align="center">
-<img src="assets/featured-apps.png" width="100%">
+
+<a href="https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner" target="_blank">
+  <img src="pdf-scanner-card.png" width="48%" alt="PDF Scanner"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp" target="_blank">
+  <img src="achatbot-card.png" width="48%" alt="ChatBot - AI Chat Assistant"/>
+</a>
+
 </p>
 
 <p align="center">
-<a href="ScannerLink">
-<img src="https://img.shields.io/badge/PDF_Scanner-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+
+<a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator" target="_blank">
+  <img src="language-translator-card.png" width="48%" alt="Language Translator"/>
 </a>
 
-<a href="BotLink">
-<img src="https://img.shields.io/badge/AI_Chat-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+<a href="https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid" target="_blank">
+  <img src="pdf-reader-card.png" width="48%" alt="PDF Reader"/>
 </a>
 
-<a href="TranslatorLink">
-<img src="https://img.shields.io/badge/Translator-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
-
-<a href="ReaderLink">
-<img src="https://img.shields.io/badge/Docs_Reader-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
 </p>
 
 ---
