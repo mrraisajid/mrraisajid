@@ -107,7 +107,7 @@ AI-powered chatbot built with Kotlin and OpenAI APIs.
 <td align="center" width="50%">
 
 <a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator">
-<img src="lang-translator.png" width="280"/>
+<img src="lang-translator.webp" width="280"/>
 </a>
 
 ### 🌐 Language Translator
