@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sajid Ali</h1>
 
-<h3 align="center">Software Engineer Android | Kotlin | Jetpack Compose | Clean Architecture</h3>
+<h3 align="center">
+Software Engineer • Android • Kotlin • Java • Jetpack Compose
+</h3>
 
 <p align="center">
-Android Engineer specializing in building scalable fintech and utility applications with 50M+ downloads.
+Building scalable Android applications with Kotlin, Java, and Jetpack Compose.<br>
+Contributed to fintech and utility products with <strong>50M+ downloads</strong>.
 </p>
 
 <p align="center">
