@@ -66,45 +66,36 @@ Contributed to fintech and utility products with <strong>50M+ downloads</strong>
 # 🚀 Featured Apps
 
 <table>
-
 <tr>
 
 <td align="center" width="50%">
 
-<a href="https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid">
-
-<img src="docs-reader.webp" width="280"/>
-
-</a>
-
-### 📄 Docs Reader
-
-Modern PDF Reader with OCR, Merge, Split, Lock/Unlock & Text-to-Speech.
-
-<a href="https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid">
-
-<img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
 <a href="https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner">
-
-<img src="assets/pdf-scanner.png" width="280"/>
-
+<img src="pdf-scanner.webp" width="280"/>
 </a>
 
 ### 📷 PDF Scanner
 
-Document Scanner powered by OpenCV with OCR and PDF editing.
+Document scanner powered by OpenCV with OCR, PDF creation, and editing tools.
 
 <a href="https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner">
-
 <img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
 
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp">
+<img src="ai-chat.webp" width="280"/>
+</a>
+
+### 🤖 AI Chat Assistant
+
+AI-powered chatbot built with Kotlin and OpenAI APIs.
+
+<a href="https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp">
+<img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 
 </td>
@@ -115,46 +106,37 @@ Document Scanner powered by OpenCV with OCR and PDF editing.
 
 <td align="center" width="50%">
 
-<a href="https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp">
-
-<img src="assets/ai-chat.png" width="280"/>
-
+<a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator">
+<img src="lang-translator.png" width="280"/>
 </a>
 
-### 🤖 AI Chat Assistant
+### 🌐 Language Translator
 
-AI-powered chatbot built using Kotlin and OpenAI APIs.
+Translate text, voice, and images with Camera OCR and Text-to-Speech.
 
-<a href="https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp">
-
+<a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator">
 <img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
-
 </a>
 
 </td>
 
 <td align="center" width="50%">
 
-<a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator">
-
-<img src="assets/translator.png" width="280"/>
-
+<a href="https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid">
+<img src="docs-reader.webp" width="280"/>
 </a>
 
-### 🌐 Language Translator
+### 📄 Docs Reader
 
-Language Translator with CameraX, OCR and Text-to-Speech.
+Feature-rich PDF reader with OCR, Merge, Split, Lock/Unlock, and Text-to-Speech.
 
-<a href="https://play.google.com/store/apps/details?id=translate.all.language.translator.cameratranslator">
-
+<a href="https://play.google.com/store/apps/details?id=com.pdf.reader.pdfviewer.pdfeditor.forandroid">
 <img src="https://img.shields.io/badge/View_on-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
-
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
