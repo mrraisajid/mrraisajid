@@ -87,16 +87,6 @@ Contributed to fintech and utility products with <strong>50M+ downloads</strong>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mrraisajid&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
