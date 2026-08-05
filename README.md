@@ -72,7 +72,7 @@ Contributed to fintech and utility products with <strong>50M+ downloads</strong>
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=chatbot.ai.chat.openai.aiassitantapp" target="_blank">
-  <img src="achatbot-card.png" width="48%" alt="ChatBot - AI Chat Assistant"/>
+  <img src="chatbot-card.png" width="48%" alt="ChatBot - AI Chat Assistant"/>
 </a>
 
 </p>
